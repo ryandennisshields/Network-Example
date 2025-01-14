@@ -1,1 +1,1 @@
-An example of Networking work using RPC in Unity.
+An example of Networking coursework using RPC in Unity.
